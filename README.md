@@ -25,15 +25,15 @@
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
-<div align=center>
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-DB005B.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <!-- intellij -->
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <!-- github -->
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <!-- git -->
   
 </div>
-<!-- <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div> -->
+
+<br/><br/> 
+
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosong6729&layout=compact">
 </div>
